@@ -1,2 +1,2 @@
 <?php
-echo 'Helll';
+echo 'Hell';
